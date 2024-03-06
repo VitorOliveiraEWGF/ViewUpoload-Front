@@ -29,7 +29,7 @@ export class AppComponent {
 
   // Função uploadFile() foi adicionada aqui
   uploadFile() {
-    // Você pode adicionar lógica adicional aqui, se necessário
+
     console.log('Upload do arquivo sendo iniciado...');
   }
 }
